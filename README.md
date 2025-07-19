@@ -1,0 +1,2 @@
+# video_script_openai_deepseek
+一个调用openai上鲸鱼妹大模型的视频脚本生成ai
